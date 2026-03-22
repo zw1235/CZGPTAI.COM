@@ -1,11 +1,34 @@
-<div align="center">
+# ChatGPT Plus 充值指南
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+亲测小白也能轻松搞定！
 
-  <h1>Built with AI Studio</h2>
+## 充值流程
+打开充值平台 -> 验证卡密 -> 输入 Token -> 兑换成功
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+---
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 操作步骤
 
-</div>
+### 一、验证卡密
+1. 浏览器打开充值站：[https://czgptai.com](https://czgptai.com)
+2. 输入您购买的卡密。（卡密示例：`FMJWFQAO6YTXXXX`）
+
+### 二、获取 Token
+1. 浏览器新建窗口，访问并登录您要充值的 ChatGPT 官网账号（若已登录可跳过）。
+2. 在登录过账号的浏览器中访问：`https://chatgpt.com/api/auth/session`
+
+### 三、验证 Token
+1. 访问后会自动弹出代码。
+2. 全选并复制所有代码，填入充值平台的输入框中。
+*注意：请确保代码完整，不要遗漏。*
+
+### 四、确认激活
+1. 系统会自动处理，通常 1-10 秒内完成。
+2. 充值成功后，返回官网刷新页面，即可查看您的 Plus 会员状态。
+
+---
+
+## 常见问题 (Q&A)
+
+**Q：打开 `api/auth/session` 页面显示是空的怎么办？**
+**A：** 说明您没有登录成功。请返回官网登录，然后再刷新该页面获取代码。
